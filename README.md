@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of xypp/flarum-copyright-card.** Not for installation: use [Packagist](https://packagist.org/packages/xypp/flarum-copyright-card) or the [upstream repository](https://github.com/zxy19/flarum_copyright_card).
 
-**0** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/xypp-flarum-copyright-card/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.2.0`
+**1** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/xypp-flarum-copyright-card/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2025-11-18 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-flarum-copyright-card/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/xypp-flarum-copyright-card.json](https://github.com/flarchive/archive-index/blob/main/packages/xypp-flarum-copyright-card.json)
 
